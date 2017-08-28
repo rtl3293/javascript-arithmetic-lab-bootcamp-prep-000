@@ -11,8 +11,8 @@ function divide(x, y) {
   return x / y
 }
 function inc(x) {
-  return x++
+  return ++x
 }
 function dec(x) {
-  return x--
+  return --x
 }
